@@ -17,7 +17,7 @@
 ## 🔗 Full Preview
 
 <p align="center">
-  👉 <a href="YOUR_PORTFOLIO_LINK"><b>View screenshots & demo video</b></a>
+  👉 <a href="(https://mateoorodaz.vercel.app)"><b>View screenshots & demo video</b></a>
 </p>
 
 ---
@@ -49,9 +49,9 @@
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="assets/home.png" width="250"/>
-  <img src="assets/reader.png" width="250"/>
-  <img src="assets/profile.png" width="250"/>
+  <img src="assets/Home.png" width="250"/>
+  <img src="assets/Reader.png" width="250"/>
+  <img src="assets/Profile.png" width="250"/>
 </p>
 
 ---
