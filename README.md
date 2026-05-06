@@ -17,7 +17,7 @@
 ## 🔗 Full Preview
 
 <p align="center">
-  👉 <a href="(https://mateoorodaz.vercel.app)"><b>View screenshots & demo video</b></a>
+  👉 **[View screenshots & demo video](https://mateoorodaz.vercel.app)**
 </p>
 
 ---
