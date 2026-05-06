@@ -51,7 +51,7 @@
 <p align="center">
   <img src="assets/home.png" width="250"/>
   <img src="assets/reader.png" width="250"/>
-  <img src="assets/library.png" width="250"/>
+  <img src="assets/profile.png" width="250"/>
 </p>
 
 ---
