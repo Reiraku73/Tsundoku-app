@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/platform-Android-green" />
   <img src="https://img.shields.io/badge/status-Demo-orange" />
-  <img src="https://img.shields.io/badge/version-v0.4.0-blue" />
+  <img src="https://img.shields.io/badge/version-v0.4.1-blue" />
   <img src="https://img.shields.io/badge/built%20with-React%20Native-61dafb" />
   <img src="https://img.shields.io/badge/backend-Supabase-3ecf8e" />
 </p>
@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  <i>Version v0.4.0 · Android · Demo Build</i>
+  <i>Version v0.4.1 · Android · Demo Build</i>
 </p>
 
 ---
